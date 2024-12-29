@@ -1,6 +1,6 @@
 # App School
 
-Apple Swift App School 🍎
+Apple Swift App School 🍎📱
 
 ## Descripción
 
